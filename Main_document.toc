@@ -1,0 +1,6 @@
+\select@language {spanish}
+\contentsline {chapter}{\numberline {1}NOM }{9}
+\contentsline {section}{\numberline {1.1}une section}{9}
+\contentsline {subsection}{\numberline {1.1.1}une subsection}{9}
+\contentsline {chapter}{\numberline {2}oooo}{11}
+\contentsline {section}{\numberline {2.1}z}{11}
