@@ -1,4 +1,4 @@
-\documentclass[14pt]{book}
+\documentclass[11pt, openany]{book}
 \usepackage[utf8]{inputenc} 
 \usepackage[spanish]{babel}
 \usepackage[T1]{fontenc}
@@ -11,6 +11,8 @@
 \usepackage{geometry}
 \usepackage{enumerate}
 \usepackage{breakcites}
+\usepackage{hyperref}
+\usepackage[export]{adjustbox}
 \geometry{hmargin=2.5cm,vmargin=2.5cm}
 
 \begin{document}
@@ -20,17 +22,10 @@
 \Large
 \thispagestyle{empty}
 \include{Resume}
-%\include{Abstract}
-
-%\include{Remerciements}
-%\addcontentsline{toc}{chapter}{Résumé}
-%\addcontentsline{toc}{chapter}{Abstract}
-%\addcontentsline{toc}{chapter}{Remerciements}
-%\addcontentsline{toc}{chapter}{Introduction générale}
-%\tableofcontents
 \include{Introduction}
 \include{Objetivos}
 \include{Marco_teorico}
+\include{Metodologia}
 
 \bibliographystyle{apalike}
 \bibliography{biblio}
