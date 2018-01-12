@@ -1,0 +1,38 @@
+\onehalfspacing
+\chapter*{Marco teórico}
+El desarrollo de software en la actualidad se divide en dos metodologías principales, las metodologías tradicionales y las ágiles. En primer lugar, el proceso de desarrollo en una metodología tradicional se basa en técnicas predictivas, las cuales permiten estimar el alcance de un producto según sus requerimientos y el presupuesto asignado al mismo, por lo tanto todas las etapas del ciclo de vida del desarrollo deben ajustarse en gran medida al cronograma pactado al inicio del proyecto, estas etapas se describen a continuación [1]:
+\begin{itemize}
+	\item Análisis de requisitos: En este punto se analiza la necesidad del cliente con el fin de identificar la factibilidad económica, técnica y operacional del proyecto.
+	\item Definición de requisitos: Luego de ser analizados, los requisitos deben ser debidamente documentados y aprobados por el cliente para ser diseñados y desarrollados en posteriores etapas del ciclo de vida del proyecto.
+	\item Diseño de la arquitectura del producto: Se desarrolla una propuesta arquitectónica para el desarrollo la cual debe ser aprobada por todas las partes interesadas, en esta propuesta se deben tener en cuenta aspectos como el riesgo, robustez del producto, presupuesto y restricciones de tiempo.
+	\item Desarrollo del producto: En esta etapa se crea el código fuente del producto basado en los requisitos y estructurado según la arquitectura definida, ademas se debe cumplir con especificaciones de lenguaje y framework de programación a utilizar.
+	\item Pruebas del producto: La funcionalidad del producto debe ser probada con el fin de identificar defectos para implementar su debida solución.
+	\item Operación y mantenimiento: Una vez el producto es probado se procede a incluirlo en ambiente de producción y liberarlo al mercado.
+\end{itemize}  
+En metodologías tradicionales este ciclo de vida se desarrolla una única vez en todo el proyecto, entregando un producto terminado al cliente con todos los requisitos solicitados al inicio.\\
+
+Por otro lado las metodologías tradicionales basan su filosofía en entregas continuas que generen valor al negocio del cliente por lo tanto todo el ciclo de vida del producto se realiza múltiples veces durante su desarrollo en los llamados Sprints con la finalidad de realizar los cambios necesarios en el momento oportuno, estos Sprints tienen una duración promedio de 2 a 4 semanas, al ser un periodo de tiempo tan corto en cada uno de ellos se desarrollan pocos requisitos del producto y se repite el ciclo de manera incremental hasta alcanzar un producto viable que pueda ser llevado a producción (Release), con el cual el cliente pueda generar retorno de inversión.\\
+
+A continuación se presenta una tabla comparativa entre metodologías de desarrollo tradicional y ágil:
+
+\begin{table}[ht]
+	\large
+	\centering
+	\caption{Metodologías tradicionales vs Ágiles}
+	\label{tabla1}
+\begin{tabular}{l|l|l|}
+	\cline{2-3}
+	& \multicolumn{1}{c|}{\textbf{Tradicional}}                                            & \multicolumn{1}{c|}{\textbf{Ágil}}                                                                      \\ \hline
+	\multicolumn{1}{|l|}{\textbf{Principal objetivo}}        & Alta seguridad                                                                       & Valor rápido                                                                                            \\ \hline
+	\multicolumn{1}{|l|}{\textbf{Modelo de desarrollo}}      & Modelo de ciclo de vida                                                              & Modelo evolutivo                                                                                        \\ \hline
+	\multicolumn{1}{|l|}{\textbf{Control de calidad}}        & Dificil y pruebas tardías                                                            & \begin{tabular}[c]{@{}l@{}}Control permanente de los\\ requisitos y pruebas continuas\end{tabular}      \\ \hline
+	\multicolumn{1}{|l|}{\textbf{Requisitos de usuario}}     & \begin{tabular}[c]{@{}l@{}}Detallados y definidos \\ antes de codificar\end{tabular} & Definición continua                                                                                     \\ \hline
+	\multicolumn{1}{|l|}{\textbf{Costo de reinicio}}         & Alto                                                                                 & Bajo                                                                                                    \\ \hline
+	\multicolumn{1}{|l|}{\textbf{Pruebas}}                   & \begin{tabular}[c]{@{}l@{}}Luego de que el codigo\\ este completo\end{tabular}       & En cada iteración                                                                                       \\ \hline
+	\multicolumn{1}{|l|}{\textbf{Participación del cliente}} & Baja                                                                                 & Alta                                                                                                    \\ \hline
+	\multicolumn{1}{|l|}{\textbf{Escala del proyecto}}       & Gran escala                                                                          & Todas las escalas                                                                                       \\ \hline
+	\multicolumn{1}{|l|}{\textbf{Requisitos}}                & Muy estables                                                                         & Propensos al cambio                                                                                     \\ \hline
+	\multicolumn{1}{|l|}{\textbf{Arquitectura}}              & \begin{tabular}[c]{@{}l@{}}Ajustada a los requisitos\\ iniciales\end{tabular}        & \begin{tabular}[c]{@{}l@{}}Diseñada para los requisitos\\ actuales pero propensa al cambio\end{tabular} \\ \hline
+	\multicolumn{1}{|l|}{\textbf{Costo de remodelado}}       & Alto                                                                                 & Bajo                                                                                                    \\ \hline
+\end{tabular}
+\end{table}

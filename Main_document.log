@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.29)  9 JAN 2018 20:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.12.29)  11 JAN 2018 22:00
 entering extended mode
 **./Main_document.tex
 (Main_document.tex
@@ -6,8 +6,8 @@ LaTeX2e <2017-04-15>
 Babel <3.15> and hyphenation patterns for 75 language(s) loaded.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls"
 Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\bk12.clo"
-File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\bk10.clo"
+File: bk10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@chapter=\count80
@@ -541,11 +541,15 @@ Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks24
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\breakcites\breakcites.sty")
+
+LaTeX Warning: Unused global option(s):
+    [14pt].
+
 (Main_document.aux (Portada.aux)
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
- (Resume.aux) (Introduction.aux) (Objetivos.aux) (Chapitre1.aux) (Chapitre2.aux
-))
+ (Resume.aux) (Introduction.aux) (Objetivos.aux) (Marco_teorico.aux) (Chapitre2
+.aux))
 \openout1 = `Main_document.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
@@ -645,15 +649,15 @@ G,.JBIG2,.JB2,.eps]
 * \textheight=652.70622pt
 * \oddsidemargin=-1.1381pt
 * \evensidemargin=-1.1381pt
-* \topmargin=-33.0119pt
+* \topmargin=-31.2056pt
 * \headheight=12.0pt
-* \headsep=19.8738pt
-* \topskip=12.0pt
-* \footskip=30.0pt
-* \marginparwidth=98.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=125.0pt
 * \marginparsep=7.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -705,14 +709,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--8
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]
 Underfull \hbox (badness 10000) in paragraph at lines 9--16
 
  []
 
 
-Underfull \vbox (badness 1394) has occurred while \output is active []
-
- [5]
 Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
  []
@@ -722,62 +726,113 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--22
 
  []
 
-) [6]
+
+Underfull \vbox (badness 7576) has occurred while \output is active []
+
+ [6])
+[7]
 \openout2 = `Objetivos.aux'.
 
- (Objetivos.tex) [7
+ (Objetivos.tex [8
 
 
 
-]
-\openout2 = `Chapitre1.aux'.
+]) [9]
+\openout2 = `Marco_teorico.aux'.
 
- (Chapitre1.tex [8
+ (Marco_teorico.tex [10
+
+
+
+] [11]
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 23.
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 23.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 23.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 23.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 23.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 23.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 23.
+LaTeX Font Info:    Try loading font information for U+msa on input line 23.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 23.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (3.71078pt too wide) in paragraph at lines 23--38
+ [][] 
+ []
+
+) [12] [13]
+\openout2 = `Chapitre2.aux'.
+
+ (Chapitre2.tex [14
 
 
 
 ]
 Cap\'{\i }tulo 1.
-) [9]
-\openout2 = `Chapitre2.aux'.
-
- (Chapitre2.tex
-LaTeX Info: Redefining \. on input line 2.
-LaTeX Info: Redefining \% on input line 2.
- [10
-
-
-
-]
-Cap\'{\i }tulo 2.
-) [11] (Main_document.bbl
+) [15] (Main_document.bbl
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [12
+ [16
 
 
-]) [13] (Main_document.aux (Portada.aux)
+]) [17] (Main_document.aux (Portada.aux)
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 
-(Resume.aux) (Introduction.aux) (Objetivos.aux) (Chapitre1.aux) (Chapitre2.aux)
-) ) 
+(Resume.aux) (Introduction.aux) (Objetivos.aux) (Marco_teorico.aux)
+(Chapitre2.aux)) ) 
 Here is how much of TeX's memory you used:
- 4369 strings out of 493312
- 56805 string characters out of 3138898
- 130893 words of memory out of 3000000
- 7791 multiletter control sequences out of 15000+200000
- 36031 words of font info for 26 fonts, out of 3000000 for 9000
+ 4462 strings out of 493312
+ 58781 string characters out of 3138898
+ 131883 words of memory out of 3000000
+ 7852 multiletter control sequences out of 15000+200000
+ 53975 words of font info for 43 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,4n,30p,747b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/
-MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/
-type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lm
-r17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Progr
-am Files/MiKTeX 2.9/fonts/type1/public/lm/lmro12.pfb>
-Output written on Main_document.pdf (13 pages, 156184 bytes).
+ 41i,13n,30p,747b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:
+/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr17
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/lm/lmro10.pfb>
+Output written on Main_document.pdf (17 pages, 194036 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
+ 83 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
