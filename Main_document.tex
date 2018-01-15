@@ -1,4 +1,4 @@
-\documentclass[11pt, openany]{book}
+\documentclass[12pt, openany]{book}
 \usepackage[utf8]{inputenc} 
 \usepackage[spanish]{babel}
 \usepackage[T1]{fontenc}
@@ -12,21 +12,25 @@
 \usepackage{enumerate}
 \usepackage{breakcites}
 \usepackage{hyperref}
+%\usepackage{cite}
 \usepackage[export]{adjustbox}
 \geometry{hmargin=2.5cm,vmargin=2.5cm}
 
 \begin{document}
 \thispagestyle{empty}
 \include{Portada}
-
-\Large
+\spacing{1.3}
+%\onehalfspace
+\normalsize
 \thispagestyle{empty}
 \include{Resume}
 \include{Introduction}
 \include{Objetivos}
 \include{Marco_teorico}
 \include{Metodologia}
+\include{Resultados}
 
 \bibliographystyle{apalike}
+%\bibliographystyle{acm}
 \bibliography{biblio}
 \end{document}
