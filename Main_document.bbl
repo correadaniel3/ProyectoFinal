@@ -1,8 +1,46 @@
 \begin{thebibliography}{}
 
-\bibitem[Griffin, 1990]{Griffin1990}
-Griffin, M.~J. (1990).
-\newblock {\em Handbook of Human Vibration}.
-\newblock 988 p. Academic Press.
+\bibitem[Clune and Lockrey, 2014]{Clune2014}
+Clune, S. and Lockrey, S. (2014).
+\newblock Developing environmental sustainability strategies, the double
+  diamond method of lca and design thinking: a case study from aged care.
+  journal of cleaner production.
+\newblock 85:67--82.
+
+\bibitem[Design-Council, ]{DesignCouncil}
+Design-Council.
+\newblock Eleven lessons: managing designin eleven global brands a study of the
+  design process.
+\newblock
+  \url{https://www.designcouncil.org.uk/sites/default/files/asset/document/ElevenLessons_Design_Council\%20(2).pdf}.
+\newblock Accessed: 2018-01-12.
+
+\bibitem[Dorst, 2011]{Dorst2011}
+Dorst, K. (2011).
+\newblock The core of ‘design thinking’and its application. design studies.
+\newblock 32(6):521--532.
+
+\bibitem[Jana, 2016]{Netflix}
+Jana, A. (2016).
+\newblock Develop microservices using netflix oss and spring boot.
+\newblock
+  \url{http://www.adeveloperdiary.com/java/spring-boot/develop-microservices-using-netflix-oss-spring-boot/}.
+\newblock Accessed: 2018-01-12.
+
+\bibitem[Lopez and Maya, 2017]{Lopez2017}
+Lopez, D. and Maya, E. (2017).
+\newblock Arquitectura de software basada en microservicios para desarrollo de
+  aplicaciones web.
+
+\bibitem[Stoica et~al., 2013]{Stoica2013}
+Stoica, M., Mircea, M., and Ghilic-Micu, B. (2013).
+\newblock Software development: Agile vs. traditional. informatica economica.
+\newblock 17(4):64.
+
+\bibitem[Villamizar et~al., 2015]{Villamizar2015}
+Villamizar, M., Garcés, O., Castro, H., Verano, M., Salamanca, L., Casallas,
+  R., and Gil, S. (2015).
+\newblock Evaluating the monolithic and the microservice architecture pattern
+  to deploy web applications in the cloud.
 
 \end{thebibliography}

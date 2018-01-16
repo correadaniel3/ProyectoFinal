@@ -1,11 +1,21 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: Main_document.aux
-A level-1 auxiliary file: Titre_page.aux
-A level-1 auxiliary file: Dedicace.aux
+A level-1 auxiliary file: Portada.aux
 A level-1 auxiliary file: Resume.aux
-A level-1 auxiliary file: Abstract.aux
-A level-1 auxiliary file: Remerciements.aux
 A level-1 auxiliary file: Introduction.aux
-A level-1 auxiliary file: Chapitre1.aux
-A level-1 auxiliary file: Chapitre2.aux
+A level-1 auxiliary file: Objetivos.aux
+A level-1 auxiliary file: Marco_teorico.aux
+A level-1 auxiliary file: Metodologia.aux
+A level-1 auxiliary file: Resultados.aux
 The style file: apalike.bst
 Database file #1: biblio.bib
+Repeated entry---line 25 of file biblio.bib
+ : @article{Clune2014
+ :                   ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in Clune2014
+Warning--empty year in DesignCouncil
+Warning--empty journal in Dorst2011
+Warning--empty booktitle in Lopez2017
+Warning--empty journal in Stoica2013
+Warning--empty booktitle in Villamizar2015
+(There was 1 error message)
